@@ -1,0 +1,16 @@
+C:\Users\leleu\Projetos\dio\Dio.Bak\bin\Debug\net5.0\Dio.Bak.exe
+C:\Users\leleu\Projetos\dio\Dio.Bak\bin\Debug\net5.0\Dio.Bak.deps.json
+C:\Users\leleu\Projetos\dio\Dio.Bak\bin\Debug\net5.0\Dio.Bak.runtimeconfig.json
+C:\Users\leleu\Projetos\dio\Dio.Bak\bin\Debug\net5.0\Dio.Bak.runtimeconfig.dev.json
+C:\Users\leleu\Projetos\dio\Dio.Bak\bin\Debug\net5.0\Dio.Bak.dll
+C:\Users\leleu\Projetos\dio\Dio.Bak\bin\Debug\net5.0\ref\Dio.Bak.dll
+C:\Users\leleu\Projetos\dio\Dio.Bak\bin\Debug\net5.0\Dio.Bak.pdb
+C:\Users\leleu\Projetos\dio\Dio.Bak\obj\Debug\net5.0\Dio.Bak.csproj.AssemblyReference.cache
+C:\Users\leleu\Projetos\dio\Dio.Bak\obj\Debug\net5.0\Dio.Bak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leleu\Projetos\dio\Dio.Bak\obj\Debug\net5.0\Dio.Bak.AssemblyInfoInputs.cache
+C:\Users\leleu\Projetos\dio\Dio.Bak\obj\Debug\net5.0\Dio.Bak.AssemblyInfo.cs
+C:\Users\leleu\Projetos\dio\Dio.Bak\obj\Debug\net5.0\Dio.Bak.csproj.CoreCompileInputs.cache
+C:\Users\leleu\Projetos\dio\Dio.Bak\obj\Debug\net5.0\Dio.Bak.dll
+C:\Users\leleu\Projetos\dio\Dio.Bak\obj\Debug\net5.0\ref\Dio.Bak.dll
+C:\Users\leleu\Projetos\dio\Dio.Bak\obj\Debug\net5.0\Dio.Bak.pdb
+C:\Users\leleu\Projetos\dio\Dio.Bak\obj\Debug\net5.0\Dio.Bak.genruntimeconfig.cache
