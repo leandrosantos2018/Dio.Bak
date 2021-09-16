@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leleu\\Projetos\\dio\\Dio.Bak\\Dio.Bak.csproj",
+      "projectUniqueName": "C:\\Projetos\\dio\\Dio.Bak\\Dio.Bak.csproj",
       "projectName": "Dio.Bak",
-      "projectPath": "C:\\Users\\leleu\\Projetos\\dio\\Dio.Bak\\Dio.Bak.csproj",
+      "projectPath": "C:\\Projetos\\dio\\Dio.Bak\\Dio.Bak.csproj",
       "packagesPath": "C:\\Users\\leleu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leleu\\Projetos\\dio\\Dio.Bak\\obj\\",
+      "outputPath": "C:\\Projetos\\dio\\Dio.Bak\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leleu\\AppData\\Roaming\\NuGet\\NuGet.Config",
