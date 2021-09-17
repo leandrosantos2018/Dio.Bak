@@ -48,7 +48,10 @@ namespace Dio.Bak
 
         private static void ListaConta()
         {
-            throw new NotImplementedException();
+           foreach (var list in listaContas)  
+            {  
+                Console.WriteLine(list);  
+            }  
         }
 
         private static void InserirConta()

@@ -29,16 +29,15 @@ namespace Dio.Bak
             }
             this.Saldo -= valorSaque;
 
-            Console.WriteLine("Saldo Atual da Conta é {0} é {1}", this.Nome, this.Saldo);
+            Console.WriteLine("Saldo Atual da Conta ï¿½ {0} ï¿½ {1}", this.Nome, this.Saldo);
 
             return true;
         }
 
         public void Depositar(double valorDeposito)
-        {
-            this.Saldo += valorDeposito;
+        { 
 
-            Console.WriteLine("Saldo Atual da Conta de {0} é {1}", this.Nome, this.Saldo);
+            Console.WriteLine("Saldo Atual da Conta de {0} ï¿½ {1}", this.Nome, this.Saldo);
         }
 
         public void Transferir(double valorTransferencia, Conta contaDestino)
