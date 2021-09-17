@@ -48,6 +48,8 @@ namespace Dio.Bak
 
         private static void ListaConta()
         {
+            Console.WriteLine($"Listagem de Contas: ");
+            
            foreach (var list in listaContas)  
             {  
                 Console.WriteLine(list);  
